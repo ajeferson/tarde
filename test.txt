@@ -1,8 +1,4 @@
 modificando a partir do master
 deving new feature
 other something
-testing something else
-master
-random thing
-dev
-changing master
+user b
